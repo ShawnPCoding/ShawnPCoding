@@ -20,27 +20,19 @@ My projects blend statistical rigor with software engineering best practices to 
 
 ## 🚀 Key Projects & Highlights
 
-### 🔍 Heart Disease Risk Classifier (2025)
-A classification model trained on a cleaned dataset with over 70% duplicate entries — tackled through advanced preprocessing and sampling strategies. Focused on generalizability, low variance, and reproducibility using:
-- PCA for dimensionality reduction
-- SVM and KNN with hyperparameter tuning
-- A full evaluation suite (confusion matrix, ROC-AUC, learning curves)
+### Analysis of discussion on ChatGPT in StackExchange (2025)
+- Advanced Text Analytics: Applied NLP techniques to analyze 390+ ChatGPT-related posts, revealing key discussion patterns and sentiment trends in the data science community.
+- Sentiment Classification: Developed a sentiment analysis pipeline that revealed a striking contrast between posts (mostly positive) and comments (predominantly neutral), suggesting initial enthusiasm followed by more critical discussion.
+- Geospatial Visualization: Created interactive maps showing the global distribution of ChatGPT discussions, with Europe, Asia, and North America emerging as key engagement hubs.
+- Thematic Analysis: Leveraged AI-powered tools to categorize discussions, identifying technical implementation as the dominant theme followed by ethical concerns about AI.
+- Visual Data Storytelling: Generated comprehensive visualizations including sentiment-specific word clouds, regional distribution charts, and feature correlation heatmaps to communicate complex patterns.
 
-### 🧵 Parallel Quicksort with `pthread` in C++
-High-performance sorting of large vectors using low-level multithreading. Benchmarked against sequential baselines with `clock()` for time analysis. Explores shared memory concurrency and thread synchronization.
+###  Diabetes Risk Factor Analysis using NHANES Dataset
+- Comprehensive Data Integration: Successfully merged multiple NHANES datasets (demographics, dietary intake, body measurements, blood pressure readings, and glycohemoglobin) to create a holistic view of diabetes risk factors.
+- Advanced Data Visualization: Implemented interactive visualizations using Bokeh, including correlation heatmaps, 3D cluster projections, and radar charts to reveal complex patterns in high-dimensional health data.
+- Unsupervised Learning Application: Applied K-means and DBSCAN clustering algorithms to identify natural groupings in the population based on health parameters, revealing distinct dietary and metabolic profiles beyond traditional clinical classifications.
+- Risk Factor Quantification: Calculated odds ratios for key diabetes risk factors, demonstrating that age, waist circumference, BMI, and blood pressure were the strongest predictors of diabetes status.
 
-### 🖼️ Distributed Image Processing Web App
-Designed a Python-based web app using Docker containers and MPI for distributed computation. Users can:
-- Log in securely
-- Upload and process images
-- Store results in a persistent database
-The backend optimizes processing using GPU acceleration with OpenCL.
-
-### 📈 Hacker News & Lemmy Mental Health NLP
-Collected and filtered thousands of community discussions to identify patterns of anxiety, isolation, and loss of motivation. Tools and techniques:
-- Sentiment analysis with `VADER` and `TextBlob`
-- Content-length filtering and engagement metrics (comments, upvotes)
-- Emphasis on ethical NLP and user well-being detection
 
 ---
 
