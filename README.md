@@ -88,7 +88,7 @@ I'm currently exploring:
 
 If you’re working on data-centric applications with meaningful impact, or you're interested in AI for social good — let’s talk!
 
-- 📧 [Email me](mailto:sonphamwork7@gmail.com)
+- 📧 [Email me](sonphamwork7@gmail.com)
 - 🌐 [LinkedIn][(https://www.linkedin.com/in/sơn-phạm-a91573300/)]
 
 ---
